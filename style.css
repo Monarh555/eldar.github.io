@@ -1,0 +1,25 @@
+.h1 {
+    position: absolute;
+    left: 800px;
+    top: 600px;
+}
+.img1 {
+    position: absolute;
+    width: 600px
+}
+
+.img2 {
+   position: absolute;
+   width: 555px;
+   left: 1355px;
+   height: 810px;
+}
+.body {
+   background: deeppink;
+}
+.img3 {
+    position: absolute;
+    width: 600px;
+    left: 680px;
+
+}
